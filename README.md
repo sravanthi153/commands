@@ -1,0 +1,25 @@
+# commands
+git clone           git fetch
+git clone
+git pull
+git checkout <Commit id>
+got checkout 
+git checkout -b test
+git merge
+git rebase
+git revert
+git reset --soft
+git reset --hard
+git cherrypick
+git fetch
+checkout
+add
+commit -m
+
+git push
+pull
+branch
+reset
+rebase
+chreeypic
+.git floder - to study
