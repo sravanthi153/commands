@@ -9,7 +9,7 @@ git pull
 
 git checkout <Commit id>
 
-  got checkout 
+  git checkout 
 
   git checkout -b test
 
